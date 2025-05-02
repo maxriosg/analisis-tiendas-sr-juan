@@ -33,8 +33,6 @@ A partir de un conjunto de datos de ventas de cuatro tiendas, se realizaron aná
 ```
 ├── challenge_tiendas.ipynb      # Notebook con análisis completo
 ├── README.md                    # Este archivo
-├── /img                         # Carpeta opcional para guardar gráficos exportados
-└── informe_final.docx           # Informe escrito con hallazgos y recomendación (opcional)
 ```
 
 ---
@@ -80,7 +78,7 @@ Se redactó un informe profesional que incluye:
 - Desarrollo con gráficos y visualizaciones
 - Conclusión y recomendación clara
 
-Puedes descargarlo desde el notebook o encontrarlo como `.docx` en el repositorio si fue exportado.
+Puedes descargarlo desde el notebook.
 
 ---
 
