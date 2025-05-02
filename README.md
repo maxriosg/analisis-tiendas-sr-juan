@@ -98,5 +98,5 @@ Puedes descargarlo desde el notebook o encontrarlo como `.docx` en el repositori
 ## 📬 Contacto
 
 Proyecto desarrollado como parte del curso de Data Science en español por [Alura Latam](https://www.aluracursos.com/).  
-Para consultas: [tu.email@ejemplo.com]  
-Repositorio creado por **[Tu Nombre o Usuario GitHub]**
+Para consultas: [maxrios@gmail.com]  
+Repositorio creado por **[Maximiliano Ríos]**
